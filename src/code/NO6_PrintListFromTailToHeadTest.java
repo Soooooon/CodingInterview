@@ -1,5 +1,8 @@
 package code;
-
+/**
+ * 面试题6：从尾到头打印链表
+ * leetcode无此题
+ */
 import java.util.ArrayList;
 import java.util.Stack;
 
@@ -44,7 +47,6 @@ public class NO6_PrintListFromTailToHeadTest {
 		ArrayList<Integer> ans=new ArrayList<>();
 		solve(listNode, ans);
 		return ans;
-		
 	}
 	public static void solve(ListNode listNode,ArrayList<Integer> ans) {
 		if (listNode!=null) {
