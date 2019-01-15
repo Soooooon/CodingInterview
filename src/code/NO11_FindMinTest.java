@@ -2,7 +2,7 @@ package code;
 /**
  * 面试题11：旋转数组的最小数字
  * leetcode：153
- * @author Soon
+ * @author Leon Song
  *
  */
 public class NO11_FindMinTest {
