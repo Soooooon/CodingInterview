@@ -2,7 +2,7 @@ package code;
 /**
  * 面试题18：删除链表的节点
  * leetcode：237,83,82
- * @author Soon
+ * @author Leon Song
  *
  */
 
