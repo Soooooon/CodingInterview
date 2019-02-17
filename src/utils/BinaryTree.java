@@ -7,6 +7,10 @@ public class BinaryTree {
 		this.root=root;
 	}
 	
+	public void printAll() {
+		root.printNode();
+	}
+	
 	public static BinaryTree aCase() {
 		TreeNode node8=new TreeNode(8);
 		TreeNode node9=new TreeNode(9);
